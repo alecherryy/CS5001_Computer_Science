@@ -1,0 +1,45 @@
+''' 
+    Alessia Pizzoccheri - CS 5001 02
+
+    Written - Homework 4
+'''
+1A  The list is missing commas in between items.
+    lst = [1, 2, 3, 4, 5, 6, 7]
+1B  Strings are immutable
+    a = 'Jello World'
+    b = a[1:]
+    new_string = 'H' + b
+1C  No error
+
+2   ['b', 'c']
+    ab
+    20
+
+3A  ['red', 'green', 'blue']
+3B  red
+    green
+    blue
+3C  0 red
+    1 green
+    2 blue
+3D  0, red
+    1, green
+    2, blue
+
+4A  0
+    1
+    2
+    3
+    4
+    5
+
+4B  2
+    3
+    4
+    5
+4C  2
+    7
+    12
+    17
+    22
+    27

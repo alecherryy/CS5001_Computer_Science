@@ -1,0 +1,23 @@
+Written #1
+
+1A float
+1B integer
+1C integer
+1D float
+1E string
+1F string
+1G string
+
+Written #2
+2A division, 1.4
+2B division, 1.4
+2C floor dvision, 1
+2D modulus, 7 % 5
+
+Written #3
+hellokeith is not a variable nor does not it hold any value
+(it's not a string, nor a float nor an integer). therefore,
+python doesn't know what to print
+
+Written #4
+print('{:.2f}'.format(amount));

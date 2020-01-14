@@ -1,0 +1,20 @@
+1A  dabba
+    dabba
+1B  dabba 
+    yabba
+    dabba
+1C  dabba
+    yabba
+    dabba
+
+2A  print_formatted('hello')
+2B  max = get_max(4,17)
+    print(max)
+    17
+2C  log = log_base_two(5)
+    print(log)
+
+3A  World 
+3B  Hello
+    World
+3C  5
